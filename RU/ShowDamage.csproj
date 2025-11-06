@@ -1,20 +1,3 @@
-<<<<<<< Updated upstream
-<Project Sdk="Microsoft.NET.Sdk">
-
-  <PropertyGroup>
-    <TargetFramework>net7.0</TargetFramework>
-    <Platforms>AnyCPU;x86</Platforms>
-    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
-    <Nullable>enable</Nullable>
-  </PropertyGroup>
-  
-  <ItemGroup>
-    <Reference Include="CounterStrikeSharp.API" />
-    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
-    <PackageReference Include="YamlDotNet" Version="9.1.4" />
-  </ItemGroup>
-</Project>
-=======
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
@@ -27,7 +10,6 @@
   <ItemGroup>
     <Reference Include="CounterStrikeSharp.API" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
-    <PackageReference Include="YamlDotNet" Version="9.1.4" />
+    <PackageReference Include="YamlDotNet" Version="13.7.0" />
   </ItemGroup>
 </Project>
->>>>>>> Stashed changes

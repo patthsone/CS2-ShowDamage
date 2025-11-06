@@ -1,0 +1,15 @@
+c:\Users\PattHs\Documents\GitHub\ShowDamage\RU\obj\Debug\net8.0\ShowDamage.csproj.AssemblyReference.cache
+c:\Users\PattHs\Documents\GitHub\ShowDamage\RU\obj\Debug\net8.0\ShowDamage.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\PattHs\Documents\GitHub\ShowDamage\RU\obj\Debug\net8.0\ShowDamage.AssemblyInfoInputs.cache
+c:\Users\PattHs\Documents\GitHub\ShowDamage\RU\obj\Debug\net8.0\ShowDamage.AssemblyInfo.cs
+c:\Users\PattHs\Documents\GitHub\ShowDamage\RU\obj\Debug\net8.0\ShowDamage.csproj.CoreCompileInputs.cache
+c:\Users\PattHs\Documents\GitHub\ShowDamage\RU\obj\Debug\net8.0\ShowDamage.sourcelink.json
+c:\Users\PattHs\Documents\GitHub\ShowDamage\RU\bin\Debug\net8.0\ShowDamage.deps.json
+c:\Users\PattHs\Documents\GitHub\ShowDamage\RU\bin\Debug\net8.0\ShowDamage.dll
+c:\Users\PattHs\Documents\GitHub\ShowDamage\RU\bin\Debug\net8.0\ShowDamage.pdb
+c:\Users\PattHs\Documents\GitHub\ShowDamage\RU\bin\Debug\net8.0\CounterStrikeSharp.API.dll
+c:\Users\PattHs\Documents\GitHub\ShowDamage\RU\obj\Debug\net8.0\ShowDamage.csproj.Up2Date
+c:\Users\PattHs\Documents\GitHub\ShowDamage\RU\obj\Debug\net8.0\ShowDamage.dll
+c:\Users\PattHs\Documents\GitHub\ShowDamage\RU\obj\Debug\net8.0\refint\ShowDamage.dll
+c:\Users\PattHs\Documents\GitHub\ShowDamage\RU\obj\Debug\net8.0\ShowDamage.pdb
+c:\Users\PattHs\Documents\GitHub\ShowDamage\RU\obj\Debug\net8.0\ref\ShowDamage.dll
